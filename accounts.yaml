@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Bank "
   contactDetails:
     name: "Abhirup Naha - Developer"
-    email: "abhirup@accounts.com"
+    email: "{cipher}a3bb0edfe9552005dd00d997dde647197c7aa48f108292bba859372219191571"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345

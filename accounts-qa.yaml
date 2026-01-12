@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Bank qa REST api "
   contactDetails:
     name: "Abhirup Naha - qa lead"
-    email: "abhirup@qa.com"
+    email: "{cipher}f20c5eae3fe66b976389c8dd23d4490a5934e24982b44cbb374b5c32cd023e9a"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
