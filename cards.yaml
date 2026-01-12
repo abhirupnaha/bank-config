@@ -1,0 +1,11 @@
+build:
+  version: "0.1"
+
+cards:
+  message: "Welcome to Bank dev REST api"
+  contactDetails:
+    name: "Abhirup Naha - Developer"
+    email: "abhirup@dev.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345

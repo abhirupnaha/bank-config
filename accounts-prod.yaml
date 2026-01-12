@@ -1,0 +1,11 @@
+build:
+  version: "0.1.final"
+
+accounts:
+  message: "Welcome to Bank prod REST api"
+  contactDetails:
+    name: "Abhirup Naha - product owner"
+    email: "abhirup@Bank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345

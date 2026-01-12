@@ -1,0 +1,11 @@
+build:
+  version: "0.1.rc"
+
+accounts:
+  message: "Welcome to Bank qa rest api"
+  contactDetails:
+    name: "Abhirup Naha - qa lead"
+    email: "abhirup@qa.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
