@@ -2,7 +2,7 @@ build:
   version: "0.2.final"
 
 cards:
-  message: "Hello, Welcome to Bank cards production rest api"
+  message: "Welcome to Bank cards production rest api"
   contactDetails:
     name: "Abhirup Naha - product owner"
     email: "abhirup@cards.com"
