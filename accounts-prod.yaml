@@ -2,7 +2,7 @@ build:
   version: "0.1.final"
 
 accounts:
-  message: "Welcome to Bank production REST api"
+  message: "Welcome to Bank accounts production REST api"
   contactDetails:
     name: "Abhirup Naha - product owner"
     email: "{cipher}af0b9425a00dfbbb6773b22fc3b875d2712b8fad0ae2612a2744724f8109d5cf006a4c490b944d2259d17be9c61ec496"
