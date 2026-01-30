@@ -2,7 +2,7 @@ build:
   version: "0.1.final"
 
 accounts:
-  message: "Hello, Welcome to Bank loans production rest api"
+  message: "Welcome to Bank loans production rest api"
   contactDetails:
     name: "Abhirup Naha - product owner"
     email: "abhirup@loans.com"
